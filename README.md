@@ -1,5 +1,7 @@
 # Daily Planner
 
+![Site](./assets/ezgif-2-ca666c2d68.gif)
+
 ## Installation
 
 Simply click on the link below to access my website!
